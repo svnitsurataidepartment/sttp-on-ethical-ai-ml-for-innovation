@@ -1,2 +1,2 @@
-# sttp-on-ethical-ai-ml-for-innovation
-sttp-on-ethical-ai-ml-for-innovation
+# These are the sessions in AI Department at SVNIT, Surat are organizing a Short-Term Training Programme (STTP) on
+# "Ethical AI/ML for Innovation: Exploring Technologies and Applications"
